@@ -24,11 +24,11 @@ A simple, interactive dad jokes generator built with React. Try it here: [Dad Jo
 ## Development
 To add jokes, edit the `jokes` array in `app.js`:
 ```javascript
-{
- setup: "Your joke question?",
- punchline: "Your punchline!"
-}
+setup: "Your joke question?",
+punchline: "Your punchline!"
+
 Author
 NeuralBloom
+
 License
 MIT
