@@ -167,5 +167,5 @@ const DadJokeGenerator = () => {
      </div>
    </div>
  );
-export default DadJokeGenerator;
 };
+export default DadJokeGenerator;
