@@ -1,5 +1,5 @@
 const { useState } = React;
-const { RefreshCw } = lucide;
+const { RefreshCw } = lucideReact;
 
 const DadJokeGenerator = () => {
  const [currentJoke, setCurrentJoke] = useState(null);
@@ -167,4 +167,5 @@ const DadJokeGenerator = () => {
      </div>
    </div>
  );
+export default DadJokeGenerator;
 };
